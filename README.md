@@ -21,7 +21,7 @@ A simple, responsive calculator web app created using only HTML and CSS. Ideal f
 
 ## 🧰 Tech Stack
 
-- 🟧 **HTML5** `<!DOCTYPE html>`
-- 🎨 **CSS3** `{ display: flex; }`
+- 🟧 **HTML5** 
+- 🎨 **CSS3** 
 
 ---
